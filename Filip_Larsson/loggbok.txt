@@ -1,0 +1,8 @@
+V.14
+    Måndag 4/4
+        - Laddade ned GitHub repo för back-end.
+        - Arrangerade strukturen i Trello för back-end.
+    Tisdag 5/4
+        - Möte med hela gruppen efter föreläsning
+        - Möte med back-end teamet för att sätta upp ToDo-tickets i Trello. 
+        - Började med implementation utav routing för position requests.

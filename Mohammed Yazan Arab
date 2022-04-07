@@ -25,3 +25,10 @@ Jobbade med seriell kommunikation och fick seriell kommunikation från arduino t
 2022-04-06
 Fortsatt jobba med seriell kommunikation mot andra hållet, raspberry till arduino
 
+2022-04-07
+Möte på plats, fick svar från Huskvarna.
+Roboten kör med seriell kommunikation från Raspberry, avoidar kollisioner och kör inom ett område.
+Diskuterade om hur vi skickar position till backend, det bli att vi skickar x och y koordinater.
+Läste lite om gyro sensor på roboten
+La som tickets på trello
+

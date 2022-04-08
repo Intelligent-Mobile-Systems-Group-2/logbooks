@@ -1,34 +1,37 @@
 2022-03-28
-Läste mbot documentation.
-Download Arduino IDE.
-Download operative system for raspberry pi.
-Byggde upp mbot roboten
-Roboten kör framåt
+Jag gick igenom mbot documentation.
+Ladda ner Arduino IDE.
+Ladda ner operative system för raspberry pi.
+Byggde upp mbot roboten.
+Roboten kör framåt.
 
 
 2022-03-29
 Första mötet, delade upp uppgifter
 
 2022-03-31
-Möte runt 3 timmar
+Möte runt 3 timmar.
 Diskussion angående hur protokollet och kommunikation ska fungera mellan mower, app och backend. förbered frågor till Huskvarna
 
 
 2022-04-05
 Möte på discord med alla i teamet.
 Erik fixade Trello.
-Möte med mower team på plats på eftermiddag, diskuterade hur vi ska jobba.
-Jag köpte kapell för att få koppla raspberry till skärm och styra med mus och keyboard.
-kopplade raspberry och arduino tillsammans.
-Jobbade med seriell kommunikation och fick seriell kommunikation från arduino till raspberry
+Möte med mower gänget på plats på eftermiddag, diskuterade hur vi ska jobba och när ska mötas. Det bli efter varje lektion och på torsdagar under labben.
+Jag köpte kabel för att få koppla raspberry till skärm och styra med mus och keyboard.
+Vi Kopplade raspberry och arduino tillsammans och jobbade med seriell kommunikation och fick seriell kommunikation från arduino till raspberry
 
 2022-04-06
-Fortsatt jobba med seriell kommunikation mot andra hållet, raspberry till arduino
+Fortsatt jobba med seriell kommunikation mot andra hållet, raspberry till arduino och det gick bra.
 
 2022-04-07
 Möte på plats, fick svar från Huskvarna.
 Roboten kör med seriell kommunikation från Raspberry, avoidar kollisioner och kör inom ett område.
 Diskuterade om hur vi skickar position till backend, det bli att vi skickar x och y koordinater.
-Läste lite om gyro sensor på roboten
-La som tickets på trello
+jag gick igenom gyro sensor på roboten.
+La som tickets på trello.
+
+2022-04-08 
+Diskuterade med Filip från backend gänget om vi ska använda Sockets.
+På måndag ska vi diskutera vidare om det med backend gänget.
 

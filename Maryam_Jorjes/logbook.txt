@@ -1,22 +1,35 @@
 V.13
 
 29 mars
-Möte på campus med hela gruppen.
+-Möte på campus med hela gruppen.
+
 30 mars
-läste om mBot Ranger.
-laddade ner mBlock som är ett platfom för programmering för mBot.
+-Läste om mBot Ranger.
+-Laddat ner mBlock som är ett platfom för programmering för mBot.
+
 31 mars
-labb 13-16:45, möte med gruppen där vi diskuterade hur vissa funktioner
-ska hanteras mellan dem olika sub-grupper. m.m.
+Labb 13-16:45
+-Möte med gruppen.
+
 1 april
-testkörde mBot, sensorer och skrev ner några rader kod för testkörning.
+-Testkörde mBot.
 
 
 V.14
-4 april laddade ner Arduino IDE
-5 april 
-möte med gruppen
+-Läsa om Serial Communication
 
+4 april
+-Laddat ner Arduino IDE
+-Möte med mwoer gruppen
+
+5 april 
+-Möte med gruppen via discord
+
+7 april
+-Labb 13-16:45.
+
+8 april
+-Läsa om socket
 
 
 
@@ -26,5 +39,6 @@ möte med gruppen
 
 
 7 april
-
+labb 13-16:45
+hitta positionen för mBot funktionen
 läsa om camera 

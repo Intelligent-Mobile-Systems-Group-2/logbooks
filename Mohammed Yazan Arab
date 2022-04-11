@@ -43,3 +43,6 @@ Jobbade med gyro sensor som är inbyggt i roboten.
 Lyckades få koordinater från gyro sensor.
 Lyckades ta bild när det är kollision, men det tar bild bara vid första kollision så vi behöver jobba vidare med det för att få ta bilder varje gång det är kollision
 
+2022-04-11
+Möte med Mower gänget, diskuterade hut långt har vi kommit.
+Möte med alla via discord, diskussion med backend angånde kommunikation. Kom fram till att vi skickar bilden från Raspberry via HTTPS request, och koordinat via Sockets.

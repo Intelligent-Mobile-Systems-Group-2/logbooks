@@ -6,3 +6,15 @@ V.14
         - Möte med hela gruppen efter föreläsning
         - Möte med back-end teamet för att sätta upp ToDo-tickets i Trello. 
         - Började med implementation utav routing för position requests.
+    Onsdag 6/4
+        - Implementerade Post & Get requests för position.
+        - Implementerade test för Post & Get requests för position.
+        - Daily standup där vi gick igenom enskilt utfört arbete. 
+        - Bestämde att vi skulle träffas på campus dagen efter. 
+    Torsdag 7/4
+        - Möte med hela gruppen för att gå igenom svar som Erik fått ifrån mötet med Husqvarna.
+        - Kollade upp hur sockets kan användas mellan backend & mower.
+        - Diskuerade med mower-teamet angående positioner, ska fungera med robotens gyroskop. 
+    Fredag 8/4
+        - Laddade upp requests till Postman för backend. 
+        - Updaterade trello med ny information om vad vi beöver. 

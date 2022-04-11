@@ -35,3 +35,11 @@ La som tickets på trello.
 Diskuterade med Filip från backend gänget om vi ska använda Sockets.
 På måndag ska vi diskutera vidare om det med backend gänget.
 
+2022-04-09
+Kopplade Raspberry direkt med en ADXL sensor och försökte se koordinater från den. Men det var inte så bra lösning för att få koordinater.
+Jobbade med gyro sensor som är inbyggt i roboten.
+
+2022-04-10
+Lyckades få koordinater från gyro sensor.
+Lyckades ta bild när det är kollision, men det tar bild bara vid första kollision så vi behöver jobba vidare med det för att få ta bilder varje gång det är kollision
+

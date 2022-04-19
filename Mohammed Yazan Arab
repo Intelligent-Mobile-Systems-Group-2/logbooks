@@ -7,11 +7,12 @@ Roboten kör framåt.
 
 
 2022-03-29
-Första mötet, delade upp uppgifter
+Första mötet, delade upp uppgifter.
 
 2022-03-31
 Möte runt 3 timmar.
-Diskussion angående hur protokollet och kommunikation ska fungera mellan mower, app och backend. förbered frågor till Huskvarna
+Diskussion angående hur protokollet och kommunikation ska fungera mellan mower, app och backend. 
+Förbered frågor till Huskvarna.
 
 
 2022-04-05
@@ -19,7 +20,7 @@ Möte på discord med alla i teamet.
 Erik fixade Trello.
 Möte med mower gänget på plats på eftermiddag, diskuterade hur vi ska jobba och när ska mötas. Det bli efter varje lektion och på torsdagar under labben.
 Jag köpte kabel för att få koppla raspberry till skärm och styra med mus och keyboard.
-Vi Kopplade raspberry och arduino tillsammans och jobbade med seriell kommunikation och fick seriell kommunikation från arduino till raspberry
+Vi Kopplade raspberry och arduino tillsammans och jobbade med seriell kommunikation och vi fick seriell kommunikation från arduino till raspberry
 
 2022-04-06
 Fortsatt jobba med seriell kommunikation mot andra hållet, raspberry till arduino och det gick bra.
@@ -35,3 +36,31 @@ La som tickets på trello.
 Diskuterade med Filip från backend gänget om vi ska använda Sockets.
 På måndag ska vi diskutera vidare om det med backend gänget.
 
+2022-04-09
+Kopplade Raspberry direkt med en ADXL sensor och försökte se koordinater från den. Men det var inte så bra lösning för att få koordinater.
+Jobbade med gyro sensor som är inbyggt i roboten.
+
+2022-04-10
+Lyckades få koordinater från gyro sensor.
+Lyckades ta bild när det är kollision, men det tar bild bara vid första kollision så vi behöver jobba vidare med det för att få ta bilder varje gång det är kollision
+
+2022-04-11
+Möte med Mower gänget, diskuterade hut långt har vi kommit.
+Möte med alla via discord, diskussion med backend angånde kommunikation. Kom fram till att vi skickar bilden från Raspberry via HTTPS request, och koordinat via Sockets.
+
+2022-04-12
+Snabbt möte med scrum master leonora innan hennes möte med Erik.
+Började skriva dokumentation.
+
+
+2022-04-13
+Koordinater från Gyro sensor är inte som vi tänkte oss, alltså vi behöver fortfarande räkna X och Y, då kommer vi använda Z från gyro sensor som visar vinkel på Mower.
+X oxh Y koordinater ska räkna i backend eller App genom att vi skickar till de vinkel och hastigheten.
+Kopplade ADXL345 i Raspberry.
+Googlade mycket på hur kan vi får hastigheten genom Gyro och ADXL345, försökte få accelration till hastighet men det gick inte. 
+
+2022-04-14
+Möte med mower gänget i skolan, jobbade tillsammans på att få upp hastigheten på Mower.
+Vi kom fram till att räkna med RPM och diameter på hjul, det gick bra. Vi skriv koden för räkningen i Arduino och skickade hastigheten till raspberry.
+Vi fixade till koden "namn på variabler och struktur" så den ser bättre ut.
+Erik skickade uppdatering angående mötet med Husqvarna.

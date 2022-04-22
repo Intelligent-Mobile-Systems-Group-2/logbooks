@@ -64,3 +64,17 @@ Möte med mower gänget i skolan, jobbade tillsammans på att få upp hastighete
 Vi kom fram till att räkna med RPM och diameter på hjul, det gick bra. Vi skriv koden för räkningen i Arduino och skickade hastigheten till raspberry.
 Vi fixade till koden "namn på variabler och struktur" så den ser bättre ut.
 Erik skickade uppdatering angående mötet med Husqvarna.
+
+2022-04-17 
+Försökte få upp X och Y i mower med hjälp av tid, vinkel och hastighet men det gick inte
+
+2022-04-20
+Möte med Mower gänget på plats, vi jobbade med olika funktioner för att få X oxh Y. Mower körde lite konstingt då betämde vi bygga om den till den andra varianten så det bli lite mindre och lättare att köra.
+
+2022-04-21 
+Möte med hela teamet i skolan.
+Leonora hade byggt om roboten.
+Vi jobbade vidare med X oxh Y, och med hjälp av Matteo från backend gänget fick vi X och Y, de ser helt okej ut men vi behöver testa om de är verkligen rätt.
+Erik skickade uppdateringen från Huskvarna.
+Lite diskussion med App gänget angånde kommunikation via Bluetooth med Mower.
+

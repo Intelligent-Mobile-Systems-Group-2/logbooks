@@ -32,3 +32,16 @@ V.15
         - Fortsatt arbete med att spara till positionerna till fil för att kunna hämta senare och skcika tillbaka. 
     Fredag 15/4
         - Uppdaterade trello med information och lade till information i mitt pågående arbete. 
+v.16
+    Måndag 18/4
+    Tisdag 19/4
+        - Gjorde klart arbetet med att spara till fil och puschade upp till GitHub
+    Onsdag 20/4
+        - Stand-up möte där vi diskuterade pågående arbete.
+        - Fokus ligger i att göra klart socket, för kommunikations med mower. 
+    Torsdag 21/4
+        - Kollade genom om hur vi ska gå tillväga framåt efter möte med Husqvarna. 
+        - Arrangerade om i GutHub för branchen jag jobbar i. 
+    Fredag 22/4
+        - Stand-up möte med enbart Markus. Arbete verkar gå fram för teamet.
+        - Planera för kommande vecka över vad som behöver göras och synka med resterande team. 

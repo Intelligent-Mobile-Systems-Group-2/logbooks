@@ -83,10 +83,13 @@ Möte efter föreläsningen, vi gick igenom hur långt har vi kommit.
 under veckan ska vi fixa kommunikation med Bluetooth
 
 2022-04-27
-Vi gjorde case satser för back, fram, höger, vänster och gå random. 
+Vi gjorde case satser för back, fram, höger, vänster och gå random i ardunio. 
+Byggde om roboten till ranger för den lilla roboten glider mycket när den svänger höger eller vänster.
+Problemet med att ranger körder lite konstigt ibland var på grund av batterier, så det löste sig.
 
 2022-04-28
 Möte i skolan och sedan jobbade vi alla mer än 5 timmar tillsammans med backend och app på kommunikation. 
+Vi hade diskussion med backend gänget angånde Sockets, vi kom fram till att vi kan slippa Sockets. Då skickar vi från roboten koordinater ifall det är koordinat för line detected eller object deected. 
 Vi kollade på vad vi behöver för Bluetooth kommunikation med appen. 
 Vi försökte konnekta appen till Raspberry via blutooth men det gick inte. Vi kommer förtsätta jobba på det.
 

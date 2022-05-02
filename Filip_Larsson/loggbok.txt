@@ -18,6 +18,7 @@ V.14
     Fredag 8/4
         - Laddade upp requests till Postman för backend. 
         - Updaterade trello med ny information om vad vi beöver. 
+
 V.15
     Måndag 11/4
         - Ändrade värden för hur vi ytar emot positions-data.
@@ -32,6 +33,7 @@ V.15
         - Fortsatt arbete med att spara till positionerna till fil för att kunna hämta senare och skcika tillbaka. 
     Fredag 15/4
         - Uppdaterade trello med information och lade till information i mitt pågående arbete. 
+
 v.16
     Måndag 18/4
     Tisdag 19/4
@@ -45,3 +47,22 @@ v.16
     Fredag 22/4
         - Stand-up möte med enbart Markus. Arbete verkar gå fram för teamet.
         - Planera för kommande vecka över vad som behöver göras och synka med resterande team. 
+
+v.17
+    Måndag 25/4
+        - Möte med hela gruppen efter föreläsning där vi diskuterade övergrippande saker. 
+        - Satte upp deadlines för alla team för hur arbetet framåt ska fortgå. 
+    Tisdag 26/4
+        - Kollade på hur kommunikation ska se ut för backend. 
+        - Blir troligtvis enbart http requests istället för sockets.
+    Onsdag 27/4
+        - Laddade upp det sista utav mitt arbete med positioneringen. 
+        - Ändrade om i trello för att se vad som är kvar att göra i backend. 
+    Torsdag 28/4
+        - Labb där vi kom fram till att vi enbart för http requests ifrån backend. 
+        - William började bygga upp routesen med tillhörande funktioner.
+        - Gjorde dokumentation för hur app och mower kan hämta data ifrån API.
+        - Påbörjade att göra tester för williams implementation.
+    Fredag 29/4
+        - Fortsatt arbete med tester för alla requests. 
+        

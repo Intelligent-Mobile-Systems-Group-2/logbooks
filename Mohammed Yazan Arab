@@ -93,5 +93,11 @@ Vi hade diskussion med backend gänget angånde Sockets, vi kom fram till att vi
 Vi kollade på vad vi behöver för Bluetooth kommunikation med appen. 
 Vi försökte konnekta appen till Raspberry via blutooth men det gick inte. Vi kommer förtsätta jobba på det.
 
+2022-05-02
+Möte i skolan, där jobbade hela teamet tillsammans. Vi försökte skicka post request till backend. Vi testade två olika sätt det ena gick inte och det andra gick bra i postman men inte i Raspberry.
+Vi provade om kordinater verkligen stämmer. de mätningar de visade stämmer inte med verkliga mätningar så vi försökte hitta bättre funktion för att räkna de.
+Vi kommer förtsätta jobba med att skicka post request till backend
+
+
 
 

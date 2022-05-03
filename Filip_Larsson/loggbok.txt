@@ -6,3 +6,63 @@ V.14
         - Möte med hela gruppen efter föreläsning
         - Möte med back-end teamet för att sätta upp ToDo-tickets i Trello. 
         - Började med implementation utav routing för position requests.
+    Onsdag 6/4
+        - Implementerade Post & Get requests för position.
+        - Implementerade test för Post & Get requests för position.
+        - Daily standup där vi gick igenom enskilt utfört arbete. 
+        - Bestämde att vi skulle träffas på campus dagen efter. 
+    Torsdag 7/4
+        - Möte med hela gruppen för att gå igenom svar som Erik fått ifrån mötet med Husqvarna.
+        - Kollade upp hur sockets kan användas mellan backend & mower.
+        - Diskuerade med mower-teamet angående positioner, ska fungera med robotens gyroskop. 
+    Fredag 8/4
+        - Laddade upp requests till Postman för backend. 
+        - Updaterade trello med ny information om vad vi beöver. 
+
+V.15
+    Måndag 11/4
+        - Ändrade värden för hur vi ytar emot positions-data.
+    Tisdag 12/4
+        - Började kolla hur vi kan spara data för positioner så man kan skriva ut path för mower. 
+        - Började bygga upp funktioner för att skriva till fil samt att läsa med mockdata.
+    Onsdag 13/4
+        - Kort möte med delar av gruppen för att se om frågor fanns till Torsdagens möte med Husqvarna. 
+        - Fortsätt arbete med att spara position till fil för backend. 
+    Torsdag 14/4
+        - Fick svar på kvarvarande frågor ifrån föregående möte utav Husqvarna. 
+        - Fortsatt arbete med att spara till positionerna till fil för att kunna hämta senare och skcika tillbaka. 
+    Fredag 15/4
+        - Uppdaterade trello med information och lade till information i mitt pågående arbete. 
+
+v.16
+    Måndag 18/4
+    Tisdag 19/4
+        - Gjorde klart arbetet med att spara till fil och puschade upp till GitHub
+    Onsdag 20/4
+        - Stand-up möte där vi diskuterade pågående arbete.
+        - Fokus ligger i att göra klart socket, för kommunikations med mower. 
+    Torsdag 21/4
+        - Kollade genom om hur vi ska gå tillväga framåt efter möte med Husqvarna. 
+        - Arrangerade om i GutHub för branchen jag jobbar i. 
+    Fredag 22/4
+        - Stand-up möte med enbart Markus. Arbete verkar gå fram för teamet.
+        - Planera för kommande vecka över vad som behöver göras och synka med resterande team. 
+
+v.17
+    Måndag 25/4
+        - Möte med hela gruppen efter föreläsning där vi diskuterade övergrippande saker. 
+        - Satte upp deadlines för alla team för hur arbetet framåt ska fortgå. 
+    Tisdag 26/4
+        - Kollade på hur kommunikation ska se ut för backend. 
+        - Blir troligtvis enbart http requests istället för sockets.
+    Onsdag 27/4
+        - Laddade upp det sista utav mitt arbete med positioneringen. 
+        - Ändrade om i trello för att se vad som är kvar att göra i backend. 
+    Torsdag 28/4
+        - Labb där vi kom fram till att vi enbart för http requests ifrån backend. 
+        - William började bygga upp routesen med tillhörande funktioner.
+        - Gjorde dokumentation för hur app och mower kan hämta data ifrån API.
+        - Påbörjade att göra tester för williams implementation.
+    Fredag 29/4
+        - Fortsatt arbete med tester för alla requests. 
+        

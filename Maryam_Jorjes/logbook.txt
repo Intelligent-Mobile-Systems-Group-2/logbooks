@@ -11,6 +11,9 @@ V.13
 Labb 13-16:45
 -Möte med gruppen.
 
+
+
+April
 1 april
 -Testkörde mBot.
 
@@ -40,5 +43,11 @@ V.14
 
 7 april
 labb 13-16:45
-hitta positionen för mBot funktionen
-läsa om camera 
+hitta positionen för mBot funktionen, att skicka position till backend, (x och y koordinater)
+läsa om Camera Zero
+
+11 april
+Möte med mwoer gruppen
+
+12
+13

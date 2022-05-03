@@ -1,6 +1,7 @@
 week 13
 We in the app group decided to use flutter to create the app. 
-This week has mostly been getting familiar with flutter and discussing how the app should look alike and creating a mock-up so the team has the same under on the view part.
+This week has mostly been getting familiar with flutter and discussing how the app should look alike and creating a mock-up 
+so the team has the same under on the view part.
 
 
 week 14 
@@ -9,11 +10,18 @@ We in the group also divided the view into different parts and I got to implemen
 
 
 week 15
-joystick input and output
+After creating the view the next step is to make it so that the joystick generates input and output 
+and communicates with the mower team to understand what data it needs from the app team.
 
 week 16
-begin with bluetooth view
+After completing the joystick the next task I got was to create the Bluetooth view. 
 
 week 17
-test connecting app with the mower
-begin with HTTP request
+This week we in the app group set a deadline that end of the week the Bluetooth should be complete, 
+at least that the app and mower are able to pair with each other. 
+After that, I will jump into API requests and begin to work with the backend.
+
+week 18
+End up that the Bluetooth still has some struggle when it comes to connection, 
+but instead of the whole team focusing on one thing, I got sent to continue with the HTTP request. 
+Same as other parts begin with the view and later try to fetch data from the database to show in the app.

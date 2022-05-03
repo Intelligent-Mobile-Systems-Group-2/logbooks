@@ -98,6 +98,11 @@ Möte i skolan, där jobbade hela teamet tillsammans. Vi försökte skicka post 
 Vi provade om kordinater verkligen stämmer. de mätningar de visade stämmer inte med verkliga mätningar så vi försökte hitta bättre funktion för att räkna de.
 Vi kommer förtsätta jobba med att skicka post request till backend
 
+2022-05-03
+gruppen träffades i skolan men jag hade exjobb, de jobbade med att skicka HTTP request till backend.
+Jag jobbade sen med koordinater, vi hade räknat angular speed innan och använde den som hastighet till roboten, men jag la till en till räkning nu för att räkna hastigheten med hjälp av angular speed, så koordinater ser mycket bättre ut nu.
+försökte skicka HTTPS request hemifrån men jag fick tillbaka 415, vi kommer titta på det imorgon
+
 
 
 

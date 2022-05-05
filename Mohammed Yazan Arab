@@ -103,6 +103,13 @@ gruppen träffades i skolan men jag hade exjobb, de jobbade med att skicka HTTP 
 Jag jobbade sen med koordinater, vi hade räknat angular speed innan och använde den som hastighet till roboten, men jag la till en till räkning nu för att räkna hastigheten med hjälp av angular speed, så koordinater ser mycket bättre ut nu.
 försökte skicka HTTPS request hemifrån men jag fick tillbaka 415, vi kommer titta på det imorgon
 
+2022-05-04
+Alla jobbade tillsammans i skolan för att skicka HTTPS Post requests till Mower, och vi lyckades skicka det med hjälp av backend teamet.
+Jobbade på att få kordinater att visa rätt värde som det är i verkligheten
+
+2022-05-05
+Vi jobbade på kordinater medan andra jobbade med Bluetooth
+Vi hittade funktion som retunerar pulsen, vi använde den istället än att räkna med hastigheten. Det gick bra och vi fick kordinater med rätt värde som det är i verkligheten
 
 
 

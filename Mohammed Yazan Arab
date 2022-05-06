@@ -111,5 +111,6 @@ Jobbade på att få kordinater att visa rätt värde som det är i verkligheten
 Vi jobbade på kordinater medan andra jobbade med Bluetooth
 Vi hittade funktion som retunerar pulsen, vi använde den istället än att räkna med hastigheten. Det gick bra och vi fick kordinater med rätt värde som det är i verkligheten
 
-
-
+2022-05-06
+Fixade lite på kod struktur
+Linedetected fungerade inte som det ska, då hade vi några delays när vi skickar x och y. Problemet är fixat.

@@ -114,3 +114,8 @@ Vi hittade funktion som retunerar pulsen, vi använde den istället än att räk
 2022-05-06
 Fixade lite på kod struktur
 Linedetected fungerade inte som det ska, då hade vi några delays när vi skickar x och y. Problemet är fixat.
+
+2022-05-09
+jobbade en hel del för att få kordinater räkna som de ska, då fick vi de visa rätt värde förra veckan men inte när mower börjar svänga och gå runt.
+Nu gick det bra genom att nöllställa pulsen för motor efter varje räkning och att anropa funtionen i rätt ställe.
+

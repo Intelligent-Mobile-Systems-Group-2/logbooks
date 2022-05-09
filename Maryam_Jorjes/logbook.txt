@@ -9,30 +9,45 @@ V.13
 
 31 mars
 Labb 13-16:45
--Möte med gruppen.
+-Möte med gruppen, går genom requierments. 
 
 
-
-April
+V.14 April månad
 1 april
 -Testkörde mBot.
 
-
-V.14
--Läsa om Serial Communication
-
 4 april
+-Läsa om Serial Communication
 -Laddat ner Arduino IDE
 -Möte med mwoer gruppen
 
 5 april 
--Möte med gruppen via discord
+-Möte med hela gruppen via discord.
+-Möte med MOWER gruppen på JTH på. Vi diskuterade hur vi skall dela upp arbetsuppgifterna, samt när ska vi ha möten. Vi kom fram till
+att vi ska ha våra möten på torsdagar samt efter varje lektion.
 
 7 april
--Labb 13-16:45.
+-Labb 13-16:45, möte med hela gruppen. Gå igenom svaren vi fick från Huskvarna.
+-Diskution om x och y koordinater som kommer att skickas till backend kickar för att få reda på mBots position.
 
 8 april
--Läsa om socket
+-Läsa om socket.
+
+V. 15
+
+11 april
+-Möte med hela gruppen, Mowe kommer att skicka bilden från Raspberry via HTTPS request till backend.
+12 april
+-Läsning om hur vi skall implementera funktionen för x och y koordinater så vi får rätt koordinater. 
+- läste om Dead reckoning för vi diskuterade denna metod för att skicka koordinater
+13 april
+- Sökning på x och y implementation, för vi fick fel resultat på vår implementering.
+14 april
+- Möte med Mower gruppen på campus, vi jobbade ihop på kodens struktur samt räkna hastigheten " speed  calculating"
+
+
+
+
 
 
 

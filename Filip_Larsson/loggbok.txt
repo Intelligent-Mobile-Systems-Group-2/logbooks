@@ -65,4 +65,23 @@ v.17
         - Påbörjade att göra tester för williams implementation.
     Fredag 29/4
         - Fortsatt arbete med tester för alla requests. 
-        
+
+v.18
+    Måndag 2/5 
+        - Gjorde klart test för backend.
+        - Började hjälpa app med att kommunicera med rest api. 
+        - Jobbade tillsammans med större delar utav teamet på skolan.
+        - Matteo publicerade rest api på server för enkel kommunikation via http requests. 
+    Tisdag 3/5
+        - Jobbade tillsammmans med Joakim på att hämta data via api till flutter. 
+        - Kollade tillsammans med maryam i mower teamet varför http requests inte fungerar som det ska. 
+    Onsdag 4/5  
+        - Jag och Markus kollade på en lösning för http requests ifrån mower via python. 
+        - Fick det att fungera efter att ha gjort ändringar i backend. 
+    Torsdag 5/5
+        - Labb där alla deltog så vi kunde strukturera upp arbetet framåt. 
+        - Backend kommer nu att börja hjälpa app & mower i deras arbete. 
+    Fredag 6/5
+        - Började hjälpa app med att hämta data ifrån backend via http i Flutter.
+        - Vi behöver i backend göra om strukturen på hur vi skickar json data via http requests.
+        - Nu jobbar alla i backend med app för att slutföra de sista implementationer som är kvar. 

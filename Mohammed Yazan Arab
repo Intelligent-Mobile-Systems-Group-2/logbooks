@@ -90,7 +90,7 @@ Problemet med att ranger körder lite konstigt ibland var på grund av batterier
 2022-04-28
 Möte i skolan och sedan jobbade vi alla mer än 5 timmar tillsammans med backend och app på kommunikation. 
 Vi hade diskussion med backend gänget angånde Sockets, vi kom fram till att vi kan slippa Sockets. Då skickar vi från roboten koordinater ifall det är koordinat för line detected eller object deected. 
-Vi kollade på vad vi behöver för Bluetooth kommunikation med appen. 
+Vi kollade på vad vi behöver för Bluetooth kommunikation med appen, vi gjorde en vluetooth server och testade det med att få data från Serial bluetooth terminal appen och det gick bra. 
 Vi försökte konnekta appen till Raspberry via blutooth men det gick inte. Vi kommer förtsätta jobba på det.
 
 2022-05-02
@@ -120,3 +120,6 @@ jobbade en hel del för att få kordinater räkna som de ska, då fick vi de vis
 Nu gick det bra genom att nöllställa pulsen för motor efter varje räkning och att anropa funtionen i rätt ställe.
 På onsdag ska vi träffas med app gänget för att få kommunikationen med Bluetooth funka. då på tisdag ska jag jobba med exjobb i Hillerstorp.
 
+2022-05-11
+Kommunikation med appen ska ske genom BLE och inte serial bluetooth kommunikation som vi hade förebrett innan. då jobbade vi mer än 6 timmar i skolan, sen fortsätt jag hemma till kvällen för att få upp BLE server i raspberry men det gick tyvärr inte.
+vi kommer förstätta jobba med BLE i raspberry.

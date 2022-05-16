@@ -90,8 +90,8 @@ Problemet med att ranger körder lite konstigt ibland var på grund av batterier
 2022-04-28
 Möte i skolan och sedan jobbade vi alla mer än 5 timmar tillsammans med backend och app på kommunikation. 
 Vi hade diskussion med backend gänget angånde Sockets, vi kom fram till att vi kan slippa Sockets. Då skickar vi från roboten koordinater ifall det är koordinat för line detected eller object deected. 
-Vi kollade på vad vi behöver för Bluetooth kommunikation med appen. 
-Vi försökte konnekta appen till Raspberry via blutooth men det gick inte. Vi kommer förtsätta jobba på det.
+Vi kollade på vad vi behöver för Bluetooth kommunikation med appen, vi gjorde en Bluetooth server och testade det med att få data från bluetooth terminal appen och det gick bra. 
+Vi försökte konnekta appen till Raspberry via blutooth men det gick inte, då appen hittar inte Raspberry pi. Vi kommer förtsätta jobba på det.
 
 2022-05-02
 Möte i skolan, där jobbade hela teamet tillsammans. Vi försökte skicka post request till backend. Vi testade två olika sätt det ena gick inte och det andra gick bra i postman men inte i Raspberry.
@@ -104,7 +104,7 @@ Jag jobbade sen med koordinater, vi hade räknat angular speed innan och använd
 försökte skicka HTTPS request hemifrån men jag fick tillbaka 415, vi kommer titta på det imorgon
 
 2022-05-04
-Alla jobbade tillsammans i skolan för att skicka HTTPS Post requests till Mower, och vi lyckades skicka det med hjälp av backend teamet.
+Vi jobbade tillsammans med Backend i skolan för att skicka HTTPS Post requests från Raspberry till Backend, och vi lyckades skicka det.
 Jobbade på att få kordinater att visa rätt värde som det är i verkligheten
 
 2022-05-05
@@ -112,5 +112,25 @@ Vi jobbade på kordinater medan andra jobbade med Bluetooth
 Vi hittade funktion som retunerar pulsen, vi använde den istället än att räkna med hastigheten. Det gick bra och vi fick kordinater med rätt värde som det är i verkligheten
 
 2022-05-06
-Fixade lite på kod struktur
+Fixade lite på kod struktur.
 Linedetected fungerade inte som det ska, då hade vi några delays när vi skickar x och y. Problemet är fixat.
+
+2022-05-09
+jobbade en hel del för att få kordinater räkna som de ska, då fick vi de visa rätt värde förra veckan men inte när mower börjar svänga och gå runt.
+Nu gick det bra genom att nöllställa pulsen för motor efter varje räkning och att anropa funtionen i rätt ställe.
+På onsdag ska vi träffas med app gänget för att få kommunikationen med Bluetooth funka. då på tisdag ska jag jobba med exjobb i Hillerstorp.
+
+2022-05-11
+Vi bytte Raspberry pi zero till Raspberry pi 4 då Raspberry pi 4 stöder BLE, för appen kör med BLE och då behöver de att konnekta till enheter som stöder BLE
+Vi satt och jobbade med Raspberry pi 4, vi hade problem med att få Bluetooth fungerar i den, då jobbade vi hela dagen i Mower gänget tillsammans med App gänget. 
+Efter skolan så satt jag till kvällen och försöker få upp Bluetooth i Raspberry pi det var mycket strular med det. fick inte Bluetooth server i Raspberryn alls.
+
+2022-05-12
+Jobbade vi i skolan för att få Bluetooth funkar i Raspberryn med hjälp av Matteo från backend teamet. 
+vi kom fram till att byta Raspberry då det kan var hårdvara problem.
+Vi bytt till en annan Raspberry pi 4, och flyttade SD kortet till den nya, och Bluetooth fungerade som den ska! så det var något fel i den Raspberry vi hade innan.
+Appen hittade inte Raspberry ändå, det var konstigt då appen hittar många andra bluetooth devices men inte Raspberryn.
+
+2022-05-13
+jag skriv dokumentationen för bluetooth server som vi gjorde 2 veckor sedan
+

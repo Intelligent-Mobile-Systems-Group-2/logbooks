@@ -23,5 +23,9 @@ After that, I will jump into API requests and begin to work with the backend.
 
 week 18
 End up that the Bluetooth still has some struggle when it comes to connection, 
-but instead of the whole team focusing on one thing, I got sent to continue with the HTTP request. 
+but instead of the whole team focusing on one thing, I got sent to continue with the API for getting data from database. 
 Same as other parts begin with the view and later try to fetch data from the database to show in the app.
+
+week 19
+This week I continued with API, where the app is going to collect data from the database and later on put it in the list, 
+where the list contains coordinates that will be used to print out points on the map.

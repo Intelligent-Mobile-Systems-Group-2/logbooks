@@ -138,6 +138,8 @@ Jag skriv dokumentationen för bluetooth server som vi gjorde 2 veckor sedan
 Vi jobbade i skolan med Erik och Matteo för att förtsätta jobba med Bluetooth low energy.
 Vu gjorde alla updateringar som behövs för att få RPI syns med BLE, men det gick inte. då började appen implementera Bluetooth classic istället än BLE.
 Appen fick hitta RPI efter Erik har bytt till Bluetooth classic, men nu behöver han fixa till så att få Bluetooth classic på hans app, så det är en del och jobba med.
+Vi lyckades få data från appen med den gamla bluetooth server vi hade, men vi vet inte än om appen kommer skicka det data vi behöver till Mower på samma sätt som nu. Annars behöver vi ändra i bluetooth server i RPI också. 
 Filip ska hjälpa Erik med appen.
+
 
 

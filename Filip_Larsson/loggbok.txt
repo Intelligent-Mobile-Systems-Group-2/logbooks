@@ -85,3 +85,19 @@ v.18
         - Började hjälpa app med att hämta data ifrån backend via http i Flutter.
         - Vi behöver i backend göra om strukturen på hur vi skickar json data via http requests.
         - Nu jobbar alla i backend med app för att slutföra de sista implementationer som är kvar. 
+
+v.19
+    Måndag 9/5
+        - Implementerade en switch knapp för api där man ska kunna ändra om man ska styra roboten eller att den ska köra av sig själv. 
+        - Stand up med backend där vi gick igenom hur vi skulle hjälpa app.
+    Tisdag 10/5
+        - Diskuterade med Erik ifrån app om hur vi ska gör knappen för app samt pushade det till github. 
+    Onsdag 11/5
+        - Började skriva dokumentation för lessons learned samt software design document i Google drive.
+        - Möte med backend för att se vad alla gör samt hur det går för samtliga.
+    Torsdag 12/5
+        - Vi samlades alla på labben, jag fortsatte arbete med att skriva dokumnentation.
+        - Påbörjade även att göra presentationen tills när vi ska redovisa projektet v.21.
+    Fredag 13/5
+        - Satt på skolan med Erik för att försöka lösa bluetooth, fortfarande problem med att ansluta till andra enheter. 
+        - Kollade på alternativ att använda sockets, men vi ska först kolla upp bluetooth. 

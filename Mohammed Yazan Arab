@@ -132,5 +132,12 @@ Vi bytt till en annan Raspberry pi 4, och flyttade SD kortet till den nya, och B
 Appen hittade inte Raspberry ändå, det var konstigt då appen hittar många andra bluetooth devices men inte Raspberryn.
 
 2022-05-13
-jag skriv dokumentationen för bluetooth server som vi gjorde 2 veckor sedan
+Jag skriv dokumentationen för bluetooth server som vi gjorde 2 veckor sedan
+
+2022-05-16
+Vi jobbade i skolan med Erik och Matteo för att förtsätta jobba med Bluetooth low energy.
+Vu gjorde alla updateringar som behövs för att få RPI syns med BLE, men det gick inte. då började appen implementera Bluetooth classic istället än BLE.
+Appen fick hitta RPI efter Erik har bytt till Bluetooth classic, men nu behöver han fixa till så att få Bluetooth classic på hans app, så det är en del och jobba med.
+Filip ska hjälpa till med Erik i appen.
+
 

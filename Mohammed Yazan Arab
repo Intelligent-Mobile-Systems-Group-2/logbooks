@@ -138,6 +138,6 @@ Jag skriv dokumentationen för bluetooth server som vi gjorde 2 veckor sedan
 Vi jobbade i skolan med Erik och Matteo för att förtsätta jobba med Bluetooth low energy.
 Vu gjorde alla updateringar som behövs för att få RPI syns med BLE, men det gick inte. då började appen implementera Bluetooth classic istället än BLE.
 Appen fick hitta RPI efter Erik har bytt till Bluetooth classic, men nu behöver han fixa till så att få Bluetooth classic på hans app, så det är en del och jobba med.
-Filip ska hjälpa till med Erik i appen.
+Filip ska hjälpa Erik med appen.
 
 

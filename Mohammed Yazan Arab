@@ -141,5 +141,14 @@ Appen fick hitta RPI efter Erik har bytt till Bluetooth classic, men nu behöver
 Vi lyckades få data från appen med den gamla bluetooth server vi hade, men vi vet inte än om appen kommer skicka det data vi behöver till Mower på samma sätt som nu. Annars behöver vi ändra i bluetooth server i RPI också. 
 Filip ska hjälpa Erik med appen.
 
+2022-05-18
+igår så jobbade jag länge med exjobb då Filip och Erik hade RPI och utvecklade den Bluetooth server vi gjorde innan för att få data från appen. 
+Vi jobbade i skolan idag för att få konnekt med appen, appen kunde styra roboten idag. 
+En problem som steg upp är att när appen kör på auto, så hamnar vi i en while loop för att skicka koordinater till backend och då appen kan inte ta över kontroll igen.
+Vi jobbade tillsammans med Filip och Erik för att fixa problemet men det gick inte.
+Jag förtsättat hemma för att fixa problemet, och hade lite chat med Filip.
+
+2022-05-19
+Jag kom till en lösning med att använda Thread då while loopen körs alltid parallellt för att räkna koordinater och det gick bra.
 
 

@@ -46,6 +46,27 @@ V. 15
 - Möte med Mower gruppen på campus, vi jobbade ihop på kodens struktur samt räkna hastigheten " speed  calculating"
 
 
+V. 16 (OBS Påsklov)
+
+20
+- Träff med Mower gruppen på Campus, gruppen testade olika funktioner för att få X oxh Y.
+- Mboten fick monteras om då vi tror att det blir lättare att hantera den.
+21
+- labb session 13-16:45, hela gruppen var på plats. vi fortsatt jobba på x och y.
+- Vi gick genom feedbacken från Huskvarna.
+- Diskussion om Bluetooth connection med gruppen App.
+
+
+V.17
+25 april
+-Stand-Up möte.
+27 april
+- Vi skrev funktionen för kontrollering av Mboten, det blev en case satser för back, fram, höger, vänster och gå random i ardunio. 
+Byggde om roboten till ranger för den lilla roboten glider mycket när den svänger höger eller vänster.
+Problemet med att ranger körder lite konstigt ibland var på grund av batterier, så det löste sig.
+28 april
+-labb 13-1645, diskussion med backend teamet om socket vi kom överens om att vi skipper sockets. Mower skickar koordinaterna till backend ifall Mowers sensorer läser av  "line detected" eller object detected". 
+- Vi försökte att ansluta Appen till Mower via Bluetooth utan resultat. Vi kommer jobba vidare med det.
 
 
 
@@ -56,13 +77,25 @@ V. 15
 
 
 
-7 april
-labb 13-16:45
-hitta positionen för mBot funktionen, att skicka position till backend, (x och y koordinater)
-läsa om Camera Zero
+Maj månad
 
-11 april
-Möte med mwoer gruppen
+V.18
+11 maj
+- Jobbade med Raspberry Pi 4 då Raspberry Pi Zero som vi har jobbat med stödjer inte Bluetooth Low energi. Vi på MOWE satt hela dagen förgäves då vi aldrig fick Bluetoothen att fungera.
+Vi laddade ner mängder med packges, vi återställde hela Raspberry Pi men inget hjälpte. Vi fortsätter imorgon.
 
-12
-13
+12 maj
+- labb 13-17, vi upptäckte att Bluetoothen i Raspberry Pi 4 som vi har fungerar inte alls, så vi fick byta till en annan, app teamet kunde ej upptäckta Raspberry Pi ändå.
+- Jag fick uppgiften att implementera python-bluzero library för att kunna kommunicera med appen.
+
+13 maj - 15 maj
+- Satt hela helgen med python-bluzero library och implementerade services, Characteristics och Descriptors. Även de andra funktioner som vi kommer behöva som finns i protocolen.
+
+16 maj
+
+
+
+
+
+
+

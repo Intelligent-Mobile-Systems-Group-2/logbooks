@@ -1,5 +1,5 @@
 V.13
-
+***********************************************************************************************************************************************
 29 mars
 -Möte på campus med hela gruppen.
 
@@ -11,8 +11,11 @@ V.13
 Labb 13-16:45
 -Möte med gruppen, går genom requierments. 
 
-
-V.14 April månad
+***********************************************************************************************************************************************
+April månad
+***********************************************************************************************************************************************
+V. 14
+***********************************************************************************************************************************************
 1 april
 -Testkörde mBot.
 
@@ -33,7 +36,9 @@ att vi ska ha våra möten på torsdagar samt efter varje lektion.
 8 april
 -Läsa om socket.
 
-V. 15
+***********************************************************************************************************************************************
+V. 15 (OBS Påsklov)
+***********************************************************************************************************************************************
 
 11 april
 -Möte med hela gruppen, Mowe kommer att skicka bilden från Raspberry via HTTPS request till backend.
@@ -45,8 +50,10 @@ V. 15
 14 april
 - Möte med Mower gruppen på campus, vi jobbade ihop på kodens struktur samt räkna hastigheten " speed  calculating"
 
-
+***********************************************************************************************************************************************
 V. 16 (OBS Påsklov)
+***********************************************************************************************************************************************
+
 
 20
 - Träff med Mower gruppen på Campus, gruppen testade olika funktioner för att få X oxh Y.
@@ -57,7 +64,10 @@ V. 16 (OBS Påsklov)
 - Diskussion om Bluetooth connection med gruppen App.
 
 
+***********************************************************************************************************************************************
 V.17
+***********************************************************************************************************************************************
+
 25 april
 -Stand-Up möte.
 27 april
@@ -69,17 +79,20 @@ Problemet med att ranger körder lite konstigt ibland var på grund av batterier
 - Vi försökte att ansluta Appen till Mower via Bluetooth utan resultat. Vi kommer jobba vidare med det.
 
 
-
-
-
-
-
-
-
-
+***********************************************************************************************************************************************
 Maj månad
+***********************************************************************************************************************************************
+V. 18
+***********************************************************************************************************************************************
 
-V.18
+2 maj - 4 maj
+- Har varit i på campus tillsammans med backend som försökte skicka HTTP request 
+
+
+***********************************************************************************************************************************************
+V.19
+***********************************************************************************************************************************************
+
 11 maj
 - Jobbade med Raspberry Pi 4 då Raspberry Pi Zero som vi har jobbat med stödjer inte Bluetooth Low energi. Vi på MOWE satt hela dagen förgäves då vi aldrig fick Bluetoothen att fungera.
 Vi laddade ner mängder med packges, vi återställde hela Raspberry Pi men inget hjälpte. Vi fortsätter imorgon.
@@ -91,7 +104,19 @@ Vi laddade ner mängder med packges, vi återställde hela Raspberry Pi men inge
 13 maj - 15 maj
 - Satt hela helgen med python-bluzero library och implementerade services, Characteristics och Descriptors. Även de andra funktioner som vi kommer behöva som finns i protocolen.
 
+***********************************************************************************************************************************************
+V.20
+***********************************************************************************************************************************************
 16 maj
+- Vi fortsatt jobba med Bluetooth, App byter till  classic Bluetooth då lyckas vi ansluta oss till appen. Även vi på Mwoer skipper BLE och byter till classic Bluetooth. 
+17 maj
+
+18 maj
+
+19 maj
+
+-labb 13-16:45
+
 
 
 

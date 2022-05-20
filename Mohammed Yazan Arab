@@ -145,10 +145,15 @@ Filip ska hjälpa Erik med appen.
 igår så jobbade jag länge med exjobb då Filip och Erik hade RPI och utvecklade den Bluetooth server vi gjorde innan för att få data från appen. 
 Vi jobbade i skolan idag för att få konnekt med appen, appen kunde styra roboten idag. 
 En problem som steg upp är att när appen kör på auto, så hamnar vi i en while loop för att skicka koordinater till backend och då appen kan inte ta över kontroll igen.
-Vi jobbade tillsammans med Filip och Erik för att fixa problemet men det gick inte.
+Utan while loopen kan vi inte skicka från mower kordinaterna eller bilden konsekvent. 
+jag jobbade tillsammans med Filip och Erik för att fixa problemet men det gick inte.
 Jag förtsättat hemma för att fixa problemet, och hade lite chat med Filip.
 
 2022-05-19
 Jag kom till en lösning med att använda Thread då while loopen körs alltid parallellt för att räkna koordinater och det gick bra.
+Sedan testade jag med Filip att köra robot med App, då fick vi se att koordinater för object detected skickas flera gånger, bilket gör att de i backend kan inte skicka rätt data tillbaka.
+Vi jobbade för att fixa det problemet, och det gick bra att sätta en delay på 0.2 millisecond i arduino koden efter den skickar objectdetected, och minska avståndet som ultrasonic sensor känner till.
+Jag skriv mer i lessons learn, satt med Maryam och leonora för att se hur vi ska skriva i software design document.
+
 
 

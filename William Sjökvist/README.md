@@ -21,17 +21,24 @@
 
 - Set up a base development environment for the backend and pushed it to the repo. 
 
+### Mars 30
+
+- Added a style guide to the project, the team agreed to use Google's. 
+
 ### April 19
 
 - Added Google Vision API calls and an image recognition route which returns the name of the object within the image.
+- Added a .env file which contains all our API keys. This is .gitignored in the project so as to not expose the API keys, and was instead passed around in our private Discord.
 
 ### April 28
 
-- Added GET requests for /object-collision and /boundary-collision. So it is possible to fetch collisions. It is also possible to fetch by the date 
+- Added GET requests for /object-collision and /boundary-collision. So it is possible to fetch collisions. It is also possible to fetch by the date.
+- Set up unit testing for boundary collion
 
 ### May 2
 
 - The object identification route now crops the image by the most dominant object, so that background objects ( which it can be more certain of, like a sun for example ) won't be returned as the collided object.
+- Set up unit testing for image recognition and object-collision route.
 
 ### May 3
 

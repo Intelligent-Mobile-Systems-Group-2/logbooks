@@ -155,5 +155,16 @@ Sedan testade jag med Filip att köra robot med App, då fick vi se att koordina
 Vi jobbade för att fixa det problemet, och det gick bra att sätta en delay på 0.2 millisecond i arduino koden efter den skickar objectdetected, och minska avståndet som ultrasonic sensor känner till.
 Jag skriv mer i lessons learn, satt med Maryam och leonora för att se hur vi ska skriva i software design document.
 
+2022-05-20
+Jag satt med Erik och Filip från 8 till 18 idag, plannen var att vi ska fixa videon till redovisningen, men det fanns lite problem i backend. då fick vi vänta på Matteo för att komma till skolan och fixa det i backend. 
+Medan vi väntade på Matteo så läste jag vad Leonora har skrivit i Software design och kompletterade med mer bilder och text, så den är klar.
+William och Matteo kom och jobbade med problemet i backend och efter de fixade det började vi filma och allting gick bra.
+Imorgon kommer vi till skolan för att skriva klart dokumentationen, logboks ch manus för presentationen så allt är redå för att lämna in.
+
+2022-05-21
+vi satt i skolan, jag skriv klar min logbok och läste igenom alla dokumentation filer.
+Jag gick igenom koden för att se att allt ser bra ut. 
+
+
 
 

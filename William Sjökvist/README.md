@@ -1,11 +1,18 @@
 <h1 align="center">William Sjökvist Logbook</h1>
 
-
 <details open="open">
   <summary><h2>Table of Contents</h2></summary>
 
-- [Mars 29](#Mars-29-(29/2/22))
-
+- [Mars 29](#Mars-29)
+- [April 19](#April-19)
+- [April 28](#April-28)
+- [May 2](#May-2)
+- [May 3](#May-3)
+- [May 4](#May-4)
+- [May 5](#May-5)
+- [May 12](#May-12)
+- [May 16](#May-16)
+- [May 20](#May-20)
 </details>
 
 ### Mars 29
@@ -38,20 +45,20 @@
 
 ### May 5
 
-- Refactored the Raspberry API request code to make sure it worked with the current implementation. 
+- Added the object-collision and boundary-collision API requests on the Raspberry when they should be fired. 
+
+### May 12
+
+- Decoupled business logic from the routes for cleaner code and ability to potentially switch the business logic implementations.
+
+### May 16
+
+- Refactored the error handling. Added a MowerApiError object which has fields for message and HTTP status code. Added many predefined errors, such as GOOGLE_VISION_FAILED_TO_REACH, LOG_OBJECT_COLLISION_FAIL etc.
 
 ### May 20
 
 - Added a query parameter to the GET routes for boundary-collision and object-collision, for getting the last collision points within a set time interval. Defaults to getting the collision points from the last 5 minutes.
+
 - Refactored the GET routes for boundary-collision and object-collision which to remove code duplication.
+
 - Fixed bug where object-collision images were not stored on the server. 
-
-
-### May 16, 2022
-
-- Refactored the error handling. Added a MowerApiError object which has fields for message and HTTP status code. Added many predefined errors, such as GOOGLE_VISION_FAILED_TO_REACH, LOG_OBJECT_COLLISION_FAIL etc.
-
-
-### May 12, 2022
-
-- Decoupled business logic from the routes for cleaner code and ability to potentially switch the business logic implementations.

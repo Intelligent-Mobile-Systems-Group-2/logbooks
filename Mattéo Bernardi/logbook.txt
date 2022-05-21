@@ -1,0 +1,52 @@
+Week 13:
+
+Meeting up with the group and preparing all the work environnment, finding a way to solve the project and getting to know
+a bit more about the subject.
+
+Week 14:
+
+04/04:
+Starting to work on websockets, mainly getting used to them and discovering how they work 
+
+04/05:
+Continued to work on websockets
+
+04/06:
+Continued to work on websockets
+
+04/07:
+Continued to work on websockets
+
+04/08:
+Trying to implement websockets to the project
+
+Week 15, 16 and 17:
+04/11:
+Team decided not to use websockets anymore, and fallback to HTTP requests. We decide to use my personnal server that i have to prepare for it
+
+04/12:
+Preparing my VPS to host the backend. Nginx configuration, subdomain, ports forwarding and PM2 setup.
+PM2 is a tool that let us use apps running all the time in the background, as well as monitor them.
+
+04/13:
+Continued the work on the Backend until end of the week
+
+Week 18:
+2/05:
+Backend is almost done at this point so I change teams and I will help Yazan and the others with the Mower for this week
+(Including making the bluetooth work on the raspberry, helping with the code to get actual good coordinates with the mower.)
+I work with the Mower team for the whole week.
+
+
+Week 19:
+We have problems with the App, so Erik tells me to try and do the Map drawing on the app.
+I work the full day on setting up my work environnment for app development but in the end I switch back to the Mower team.
+Further work on mower (error with bluetooth that we have to fix)
+Bluetooth error then fixed.
+
+Week 20:
+Helping the App team with the linking of the App to the Mower.
+Making last adjustments on the backend, fixing few small errors with William.
+
+Project done.
+

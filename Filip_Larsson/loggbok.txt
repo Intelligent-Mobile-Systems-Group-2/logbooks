@@ -101,3 +101,42 @@ v.19
     Fredag 13/5
         - Satt på skolan med Erik för att försöka lösa bluetooth, fortfarande problem med att ansluta till andra enheter. 
         - Kollade på alternativ att använda sockets, men vi ska först kolla upp bluetooth. 
+
+v.20
+    Måndag 16/5
+        - Satt med Yazan och Erik och fick till komnmunikationen mellan app och mower via bluetooth. 
+        - Fortsatt att skriva dokumentation samt skapa figurer för att illustrera hur systemet kommer fungera. 
+        - Stand up med backend för att se vilka delar alla jobbar med samt om något är kvar att göra. 
+    Tisdag 17/5
+        - Satt med Erik för att göra så at kommandon ifrån app gör att mower kan navigera med hoystick ifrån app. 
+            ex. gå höger. Samt att mower ska köra av sig själv när man trycker på en knapp i appen. 
+        - Fick kommunikationen att fungera. Dock problem med att när mower köra automatiskt så går det inte 
+            att navigera tillbaka till att köra själv med navigationen. Måste kolla på det med Yazan.
+        - Fortsatt arbete med dokumentationen i lessons learned dokumentet. 
+    Onsdag 18/5
+        - Satt med Yazan och Erik för att lösa problemet med att kunna köra auto samt att kunna köra manuellt 
+            utan att det krachar. Provade olika lösningar utan resultat.
+        - Appen fungerade nu som vi vill med att skicka kommandon när man navigerar med joystick, samt 
+            skickar kommandon för när man köra auto eller manuellt. 
+    Torsdag 19/5
+        - Satt med Yazan under morgonen för att få det att fungera med mower. Fick tillslut det att fungera när 
+            yazan ändrade kod i aurdino, det vi försökt med innan var att ändra kod i raspberryn. 
+        - Mower fungerade nu som det ska. Blev ett rikigt bra resultat. 
+        - App går nu att navigera mower samt att mower kan köra av sig själv (auto) och då upptäcka hinder i det 
+            område som den jobbar i, allt i enlighet med high level requirements. 
+        - Satt med Leonora och Maryam för att tillsammans skriva dokumentationen. Leonora förberedde för 
+            presentationen, medans Maryam tillsammans med Yazan skrev dokumentation i software design dokument. 
+    Fredag 20/5
+        - Suttit med att skriva klar all dokumentation samt fixa det sista med presentationen för att skicka in på Söndag. 
+        - Provat tillsammans med Yazan och Erik att köra alla delar tillsammans, vilket nu fungerar bra. 
+        - William gjorde en sorteringsfunktion för att kunna visa en ny körning i appen när vi på mappen visar vägen 
+            som mower har kört i ett område. 
+        - Tillsammans med Matteo, William, Erik och Yazan så spelade vi in en video på hur mowern fungerar som vi kan visa 
+            på demonstrationen samt att visa i software design dokumentet.
+    Lördag 21/5
+        - Träffade Yazan, Maryam, Leonora och Erik på skolan för att sliutföra all dokumentation så att allt finns med.
+        - Jag Kollade igenom samt skrev klar hela min loggbok så att den stämmer och skickade upp den till Github.
+        - Vi kom fram till att jag och Erik gör presentationen tillsammans med Yazan som sköter roboten under demonstrationen. 
+        - Började skriva manus för att hur vi ska presentera. 
+
+        

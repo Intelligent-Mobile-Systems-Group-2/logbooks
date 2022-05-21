@@ -69,3 +69,7 @@
 - Refactored the GET routes for boundary-collision and object-collision which to remove code duplication.
 
 - Fixed bug where object-collision images were not stored on the server. 
+
+### May 21
+
+- Changed some of the API documentation to make it easier to understand

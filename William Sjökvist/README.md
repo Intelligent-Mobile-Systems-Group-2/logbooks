@@ -35,3 +35,23 @@
 - I cleaned up the code on the raspberry, and made the HTTP requests which send a photo and coordinates when collisions occur. 
 
 - Fixed a bug which caused the backend to not accept JSON formatted request bodies.
+
+### May 5
+
+- Refactored the Raspberry API request code to make sure it worked with the current implementation. 
+
+### May 20
+
+- Added a query parameter to the GET routes for boundary-collision and object-collision, for getting the last collision points within a set time interval. Defaults to getting the collision points from the last 5 minutes.
+- Refactored the GET routes for boundary-collision and object-collision which to remove code duplication.
+- Fixed bug where object-collision images were not stored on the server. 
+
+
+### May 16, 2022
+
+- Refactored the error handling. Added a MowerApiError object which has fields for message and HTTP status code. Added many predefined errors, such as GOOGLE_VISION_FAILED_TO_REACH, LOG_OBJECT_COLLISION_FAIL etc.
+
+
+### May 12, 2022
+
+- Decoupled business logic from the routes for cleaner code and ability to potentially switch the business logic implementations.

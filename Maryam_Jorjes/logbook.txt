@@ -55,10 +55,10 @@ V. 16 (OBS Påsklov)
 ***********************************************************************************************************************************************
 
 
-20
+20 april
 - Träff med Mower gruppen på Campus, gruppen testade olika funktioner för att få X oxh Y.
 - Mboten fick monteras om då vi tror att det blir lättare att hantera den.
-21
+21 april
 - labb session 13-16:45, hela gruppen var på plats. vi fortsatt jobba på x och y.
 - Vi gick genom feedbacken från Huskvarna.
 - Diskussion om Bluetooth connection med gruppen App.
@@ -86,9 +86,11 @@ V. 18
 ***********************************************************************************************************************************************
 
 2 maj - 4 maj
-- Har varit i på campus tillsammans med backend som försökte skicka HTTP request 
+- Har varit i på campus tillsammans med Filip "backend teamet" som försökte skicka HTTP request till oss.
+-Vi test körde så det gick att skicka HTTP request och få respos.
 
-
+5 maj
+- Labb 13-16:45 labb, vi justerade funktionen som retunerar koordinater. 
 ***********************************************************************************************************************************************
 V.19
 ***********************************************************************************************************************************************
@@ -109,15 +111,13 @@ V.20
 ***********************************************************************************************************************************************
 16 maj
 - Vi fortsatt jobba med Bluetooth, App byter till  classic Bluetooth då lyckas vi ansluta oss till appen. Även vi på Mwoer skipper BLE och byter till classic Bluetooth. 
-17 maj
-
-18 maj
 
 19 maj
+-labb 13-16:45, jobbade med dokumentationen.
 
--labb 13-16:45
-
-
+21 maj
+- Träffade Mower teamet Yazan, Leonora. Även Filip och Erik på campus då vi kontrollerade så allt är klart om gjorde ändringar i dokumentation där det behövdes.
+- Skrev klart logboken.
 
 
 
